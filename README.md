@@ -2,10 +2,12 @@
 
 
 
-- 🔭 I’m currently working on a C++ Game Engine Called Uranium
-- 🌱 I’m currently learning more in depth C++ and how to better my C++ code
-- 👯 I’m looking to collaborate on C++/Java projects
-- 💬 Ask me about Anything
-- 📫 How to reach me: Discord: A Yoshi#7395
-- ⚡ Fun fact: C++ is almost better than food
+I like to Code but most of my stuff is private
+My Stats below are for what is public!
+
+I'll try to make more public stuff in the future
+
+
+[![GitHub STATS](https://github-readme-stats.vercel.app/api?username=Hammer86gn)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hammer86gn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
