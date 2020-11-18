@@ -15,6 +15,7 @@ I'll try to make more public stuff in the future
 - My Favorite Colour: Red
 - I am from the United States of America
 
+pog
 
 [![GitHub STATS](https://github-readme-stats.vercel.app/api?username=Hammer86gn)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hammer86gn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
