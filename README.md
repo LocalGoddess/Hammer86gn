@@ -17,7 +17,7 @@ I'll try to make more public stuff in the future
 
 pog
 
-[![GitHub STATS](https://github-readme-stats.vercel.app/api?username=Hammer86gn)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=Hammer86gn)]
 
 pog
 
