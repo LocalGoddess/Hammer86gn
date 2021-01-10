@@ -17,9 +17,9 @@ I'll try to make more public stuff in the future
 
 pog
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Hammer86gn&count_private=true&theme=tokyonight)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Hammer86gn&count_private=true&theme=radical)
 
 pog
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hammer86gn&layout=compact)](https://www.google.com)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hammer86gn&count_private=true&theme=radical)](https://www.google.com)
 
