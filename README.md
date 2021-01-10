@@ -15,11 +15,9 @@ I'll try to make more public stuff in the future
 - My Favorite Colour: Red
 - I am from the United States of America
 
-pog
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Hammer86gn&count_private=true&theme=radical)
 
-pog
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hammer86gn&count_private=true&theme=radical)](https://www.google.com)
 
