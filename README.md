@@ -17,7 +17,7 @@ I'll try to make more public stuff in the future
 
 pog
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Hammer86gn&count_private=true?theme=tokyonight)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Hammer86gn&count_private=true&theme=tokyonight)
 
 pog
 
