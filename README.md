@@ -25,5 +25,5 @@ Language I use:
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Hammer86gn&count_private=true&theme=radical)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hammer86gn&count_private=true&theme=radical)](https://www.google.com)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hammer86gn&count_private=true&theme=radical)](https://github-readme-stats.vercel.app/api/top-langs/?username=Hammer86gn&count_private=true&theme=radical)
 
