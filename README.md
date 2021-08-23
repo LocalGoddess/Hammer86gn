@@ -10,9 +10,9 @@ I'll try to make more public stuff in the future
 # About Me
 
 - My Current Favorite Language: C++ then Java
-- Currently Improving my C++ Abilities
+- Currently Working on Discord.jar and Crystallized
 - I can speak english and some German
-- My Favorite Colour: Red
+- My Favorite Color: red
 - I am from the United States of America
 
 Language I use:
