@@ -16,8 +16,8 @@ I'll try to make more public stuff in the future
 - I am from the United States of America
 
 Language I use:
-<code><img height="20" src="https://github.com/Hammer86gn/Hammer86gn/blob/main/assets/java.jpg"></code>
-<code><img height="20" src="https://github.com/Hammer86gn/Hammer86gn/blob/main/assets/cpp.png"></code>
+<code><img height="40" src="https://github.com/Hammer86gn/Hammer86gn/blob/main/assets/java.jpg"></code>
+<code><img height="40" src="https://github.com/Hammer86gn/Hammer86gn/blob/main/assets/cpp.png"></code>
 
 
 
