@@ -10,7 +10,7 @@ I'll try to make more public stuff in the future
 # About Me
 
 - My Current Favorite Language: C++ then Java
-- Currently Working on Discord.jar and Crystallized
+- Currently Working on CoffeeDiscord and Crystallized
 - I can speak english and some German
 - My Favorite Color: red
 - I am from the United States of America
