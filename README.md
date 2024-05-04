@@ -2,7 +2,7 @@
     <div align="center">
         <h1>🌸 Hello! 🌸</h1>
     <body>
-        I'm Chloe a software engineer from NYC :)
+        I'm Chloe a software engineer from NYC
         <div>
             Currently, I am working on <a href="https://github.com/MCDiamondFire">DiamondFire</a> and <a href="https://github.com/LocalGoddess/shark">shark</a>
         </div>
