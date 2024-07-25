@@ -4,7 +4,7 @@
     <body>
         I'm Chloe a software engineer from NYC
         <div>
-            Currently, I am working on <a href="https://github.com/MCDiamondFire">DiamondFire</a> and <a href="https://github.com/LocalGoddess/shark">shark</a>
+            Currently, I am working on <a href="https://github.com/LocalGoddess/shark">shark</a>
         </div>
         <div>
             Thats all for now bye!
