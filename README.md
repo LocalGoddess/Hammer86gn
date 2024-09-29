@@ -4,7 +4,7 @@
     <body>
         I'm Chloe a software engineer from NYC
         <div>
-            Currently, <a href="https://github.com/LocalGoddess/learning-vulkan">learning vulkan</a>
+            Currently, I am <a href="https://github.com/LocalGoddess/learning-vulkan">learning vulkan</a>
         </div>
         <div>
             Thats all for now bye!
