@@ -9,7 +9,6 @@
         <div>
             Thats all for now bye!
         </div>
-        <br> <br> <br> <br>
     </body>
     </div>
 </html>
